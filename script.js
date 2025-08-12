@@ -48,7 +48,7 @@
             });
         }
 
-        // Auto-slide testimonials
+        
         function autoSlide() {
             currentTestimonial = currentTestimonial >= testimonials.length ? 1 : currentTestimonial + 1;
             currentSlide(currentTestimonial);
