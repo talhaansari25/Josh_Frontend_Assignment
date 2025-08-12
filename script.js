@@ -41,7 +41,7 @@
             currentTestimonial = n;
             showTestimonial(n);
             
-            // Update dots
+           
             const dots = document.querySelectorAll('.dot');
             dots.forEach((dot, index) => {
                 dot.classList.toggle('active', index === n - 1);
