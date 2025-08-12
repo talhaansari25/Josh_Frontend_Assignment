@@ -290,7 +290,7 @@
     }
 }
 
-/* Responsive adjustments */
+
 @media (max-width: 768px) {
     .hero-title {
         font-size: 2.5rem;
