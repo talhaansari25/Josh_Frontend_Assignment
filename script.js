@@ -56,7 +56,7 @@
 
         setInterval(autoSlide, 5000);
 
-        // Video Player
+        
         const video = document.getElementById('featuresVideo');
         const playButton = document.getElementById('playButton');
 
