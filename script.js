@@ -1,4 +1,4 @@
-// Testimonial Slider
+
         let currentTestimonial = 1;
         const testimonials = [
             {
